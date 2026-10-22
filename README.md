@@ -45,6 +45,8 @@
 - 🧪 **[selenium_3](https://github.com/Stanislav-Chekin/selenium_3)**: Проект с автотестами для веб-форм. Демонстрирует работу с Explicit/Implicit Waits, сложными элементами (календарь, React-дропдауны), паттерном Page Element и параметризацией (DDT) на Pytest.
 - 🎓 **[qa_guru_homework](https://github.com/Stanislav-Chekin/qa_guru_homework)**: Домашние задания с курса QA_Guru (основы Python, тест-дизайн).
 - ⚔️ **[test_conflict](https://github.com/Stanislav-Chekin/test_conflict)**: Отработка навыков работы с Git (разрешение конфликтов, Pull Request).
+- 🧪 **[selenium_2](https://github.com/Stanislav-Chekin/selenium_2)**: UI Automation tests for Login and Text Box forms using Selenium and Pytest.
+- 📝 **[selenium_homework](https://github.com/Stanislav-Chekin/selenium_homework)**: First steps in Selenium WebDriver automation (locators, basic web interactions).
 
 ---
 
