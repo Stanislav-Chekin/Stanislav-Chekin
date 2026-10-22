@@ -10,33 +10,44 @@
 
 ## 👨‍💻 Обо мне
 
-Я инженер по автоматизации тестирования (AQA). Мой путь в IT начался с курса **QA_Guru**, где я полюбил писать чистый и надежный код на Python. Сейчас я активно ищу свою первую работу или стажировку в QA, чтобы применить свои знания на практике.
+QA Engineer с 4-летним опытом в ручном тестировании, активно развивающийся в направлении автоматизации (AQA). Мой глубокий бэкграунд в обеспечении качества и понимании бизнес-логики стал прочным фундаментом для перехода в автоматизацию. Последние 2 года я посвятил изучению Python и фреймворков (Selenium, Pytest), успешно завершив курс **QA_Guru**. Люблю писать чистый, поддерживаемый код и создавать надежные тестовые фреймворки. Сейчас нахожусь в поиске AQA-позиции, где смогу объединить свой 4-летний опыт в QA и новые технические навыки для создания эффективной системы автотестов.
 
-- 🧪 Специализируюсь на **UI-тестировании** (Selenium WebDriver) и **API-тестировании**.
 - 🔭 Сейчас я работаю над созданием собственных тестовых фреймворков.
 - 🌱 В данный момент углубляю знания в **Page Object Model (POM)**, **Docker** и **CI/CD**.
-- 💬 Спроси меня о **Python**, **Selenium**, **Pytest**, **Git**, **SQL**.
-- 📫 **Как со мной связаться:**
+- 💬 Спроси меня о **Python**, **Selenium**, **Pytest**, **SQL**, **Test Design**.
+- 📫 **Как со мной связаться:** 
   <a href="https://t.me/Stanislav_Chekin"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=Stanislavcekin30@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  
-  ✉️ Или просто напишите на почту: **Stanislavcekin30@gmail.com**
 
 ---
 
 ## 🛠️ Мой стек технологий
 
+### 📱 Ручное тестирование и Test Design
+<p align="left">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DevTools">
+  <img src="https://img.shields.io/badge/Allure-FF5722?style=for-the-badge&logo=qameta&logoColor=white" alt="Allure">
+</p>
+
+### 🤖 Автоматизация (UI & API)
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
 
----
+### ⚙️ Инструменты и Инфраструктура
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</p>
+  
+  ✉️ Или просто напишите на почту: **Stanislavcekin30@gmail.com**
+
 
 ## 🚀 Мои ключевые проекты
 
