@@ -62,12 +62,6 @@
 
 ---
 
-## 🏆 Мои достижения
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Stanislav-Chekin&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
-
 ## 📈 Моя активность на GitHub
 
 <p align="center">
@@ -77,6 +71,12 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stanislav-Chekin&theme=radical" alt="GitHub Streak" />
+</p>
+
+## 🏆 Мои достижения
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Stanislav-Chekin&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
 </p>
 
 <p align="right">
