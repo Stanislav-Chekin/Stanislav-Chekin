@@ -18,7 +18,9 @@
 - 💬 Спроси меня о **Python**, **Selenium**, **Pytest**, **Git**, **SQL**.
 - 📫 **Как со мной связаться:**
   <a href="https://t.me/Stanislav_Chekin"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="mailto:Stanislavcekin@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=Stanislavcekin30@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  
+  ✉️ Или просто напишите на почту: **Stanislavcekin30@gmail.com**
 
 ---
 
