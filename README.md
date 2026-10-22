@@ -59,3 +59,26 @@
 <p align="center">
   <i>Открыт к предложениям о работе и стажировкам в сфере QA Automation! 💼</i>
 </p>
+
+---
+
+## 🏆 Мои достижения
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Stanislav-Chekin&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+</p>
+
+## 📈 Моя активность на GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Stanislav-Chekin&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stanislav-Chekin&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stanislav-Chekin&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Stanislav-Chekin&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
