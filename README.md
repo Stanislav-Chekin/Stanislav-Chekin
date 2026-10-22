@@ -66,4 +66,9 @@
 
 ---
 
+## 🐍 Змейка моих коммитов
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Stanislav-Chekin/Stanislav-Chekin/output/github-snake.svg" alt="Snake animation" />
+</p>
 
