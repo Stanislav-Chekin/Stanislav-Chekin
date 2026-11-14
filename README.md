@@ -10,11 +10,13 @@
 
 ## 👨‍💻 Обо мне
 
-QA Engineer с 4-летним опытом в ручном тестировании, активно развивающийся в направлении автоматизации (AQA). Мой глубокий бэкграунд в обеспечении качества и понимании бизнес-логики стал прочным фундаментом для перехода в автоматизацию. Последние 2 года я посвятил изучению Python и фреймворков (Selenium, Pytest), успешно завершив курс **QA_Guru**. Люблю писать чистый, поддерживаемый код и создавать надежные тестовые фреймворки. Сейчас нахожусь в поиске AQA-позиции, где смогу объединить свой 4-летний опыт в QA и новые технические навыки для создания эффективной системы автотестов.
+QA Engineer с **4-летним опытом в ручном тестировании**, успешно перешедший в автоматизацию (AQA). Мой глубокий бэкграунд в обеспечении качества и понимании бизнес-логики стал прочным фундаментом для написания эффективных тестов. 
 
-- 🔭 Сейчас я работаю над созданием собственных тестовых фреймворков.
-- 🌱 В данный момент углубляю знания в **Page Object Model (POM)**, **Docker** и **CI/CD**.
-- 💬 Спроси меня о **Python**, **Selenium**, **Pytest**, **SQL**, **Test Design**.
+Я выпускник курса **QA.GURU** по направлению Python AQA. Владею стеком Selenium + Pytest, умею строить архитектуру тестов по паттерну **Page Object Model (POM)**, настраивать продвинутую отчетность через **Allure** и работать с BDD. Люблю писать чистый, поддерживаемый код и создавать надежные тестовые фреймворки.
+
+- 🔭 Сейчас я работаю над созданием собственных тестовых фреймворков с нуля.
+- 🌱 В данный момент углубляю знания в **CI/CD (GitHub Actions)**, **Docker** и **API-тестировании**.
+- 💬 Спроси меня о **Python**, **Selenium**, **Pytest**, **Allure**, **SQL**, **Test Design**.
 - 📫 **Как со мной связаться:** 
   <a href="https://t.me/Stanislav_Chekin"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=Stanislavcekin30@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -25,19 +27,21 @@ QA Engineer с 4-летним опытом в ручном тестирован�
 
 ## 🛠️ Мой стек технологий
 
-### 📱 Ручное тестирование и Test Design
-<p align="left">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DevTools">
-  <img src="https://img.shields.io/badge/Allure-FF5722?style=for-the-badge&logo=qameta&logoColor=white" alt="Allure">
-</p>
-
 ### 🤖 Автоматизация (UI & API)
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest">
+  <img src="https://img.shields.io/badge/Allure_Report-FF5722?style=for-the-badge&logo=qameta&logoColor=white" alt="Allure">
+  <img src="https://img.shields.io/badge/BDD_(pytest--bdd)-purple?style=for-the-badge" alt="BDD">
+  <img src="https://img.shields.io/badge/Mocking-333333?style=for-the-badge" alt="Mocking">
+</p>
+
+### 📱 Ручное тестирование и Test Design
+<p align="left">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DevTools">
 </p>
 
 ### ⚙️ Инструменты и Инфраструктура
@@ -52,13 +56,15 @@ QA Engineer с 4-летним опытом в ручном тестирован�
   
 ## 🚀 Мои ключевые проекты
 
-Здесь собраны мои работы в области автоматизации тестирования:
+Здесь собраны мои лучшие работы в области автоматизации тестирования (от сложного к простому):
 
-- 🧪 **[selenium_3](https://github.com/Stanislav-Chekin/selenium_3)**: Проект с автотестами для веб-форм. Демонстрирует работу с Explicit/Implicit Waits, сложными элементами (календарь, React-дропдауны), паттерном Page Element и параметризацией (DDT) на Pytest.
+- 🏆 **[module_4_allure](https://github.com/Stanislav-Chekin/module_4_allure)**: Комплексный проект с отчетностью Allure (шаги, аттачи), BDD-тестами (`pytest-bdd`), мокированием (`pytest-mock`) и миграцией с `unittest`.
+- 🏗️ **[selenium_pytest_module_4](https://github.com/Stanislav-Chekin/selenium_pytest_module_4)**: Наиболее приближенный к коммерческому Selenium-фреймворк. Реализован паттерн Page Object Model (POM), интеграция Allure (с автоматическим созданием скриншотов при падении) и параметризация.
+- ⚙️ **[module_4_pytest](https://github.com/Stanislav-Chekin/module_4_pytest)**: Продвинутое использование Pytest: создание кастомных хуков (`pytest_generate_tests`), динамическая параметризация, косвенные фикстуры (`indirect`) и Data Classes.
+- 🧪 **[selenium_3](https://github.com/Stanislav-Chekin/selenium_3)**: Проект с автотестами для веб-форм. Демонстрирует работу с Explicit/Implicit Waits, сложными элементами (календарь, React-дропдауны), паттерном Page Element.
 - 🎓 **[qa_guru_homeworke](https://github.com/Stanislav-Chekin/qa_guru_homeworke)**: Домашние задания с курса QA_Guru (основы Python, тест-дизайн).
 - ⚔️ **[test_conflict](https://github.com/Stanislav-Chekin/test_conflict)**: Отработка навыков работы с Git (разрешение конфликтов, Pull Request).
-- 🧪 **[selenium_2](https://github.com/Stanislav-Chekin/selenium_2)**: UI Automation tests for Login and Text Box forms using Selenium and Pytest.
-- 📝 **[selenium_homework](https://github.com/Stanislav-Chekin/selenium_homework)**: First steps in Selenium WebDriver automation (locators, basic web interactions).
+- 📝 **[selenium_2](https://github.com/Stanislav-Chekin/selenium_2)** & **[selenium_homework](https://github.com/Stanislav-Chekin/selenium_homework)**: Первые шаги в Selenium WebDriver (локаторы, базовые взаимодействия).
 
 ---
 
@@ -85,4 +91,3 @@ QA Engineer с 4-летним опытом в ручном тестирован�
 <p align="center">
   <img src="https://raw.githubusercontent.com/Stanislav-Chekin/Stanislav-Chekin/output/github-snake.svg" alt="Snake animation" />
 </p>
-
