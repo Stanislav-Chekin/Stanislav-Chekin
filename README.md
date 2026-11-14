@@ -1,4 +1,4 @@
-# Привет, я Станислав! 👋 
+# Привет, я Станислав! 
 
 ### Python QA Automation Engineer (AQA)
 
@@ -10,13 +10,13 @@
 
 ## 👨‍💻 Обо мне
 
-QA Engineer с **4-летним опытом в ручном тестировании**, успешно перешедший в автоматизацию (AQA). Мой глубокий бэкграунд в обеспечении качества и понимании бизнес-логики стал прочным фундаментом для написания эффективных тестов. 
+Python QA Automation Engineer (AQA) с **2-летним реальным коммерческим опытом** разработки и поддержки автотестов на UI и API 
 
-Я выпускник курса **QA.GURU** по направлению Python AQA. Владею стеком Selenium + Pytest, умею строить архитектуру тестов по паттерну **Page Object Model (POM)**, настраивать продвинутую отчетность через **Allure** и работать с BDD. Люблю писать чистый, поддерживаемый код и создавать надежные тестовые фреймворки.
+Мой бэкграунд включает **4 года в ручном тестировании**, что дает мне глубокое понимание бизнес-логики, тест-дизайна и позволяет находить баги там, где обычные автотестеры их пропускают. В автоматизации я использую Python, Selenium, Pytest и Requests. Умею строить архитектуру тестов по паттерну **Page Object Model (POM)**, настраивать продвинутую отчетность через **Allure**, работать с BDD и моками. Люблю писать чистый, поддерживаемый код и создавать надежные тестовые фреймворки.
 
 - 🔭 Сейчас я работаю над созданием собственных тестовых фреймворков с нуля.
-- 🌱 В данный момент углубляю знания в **CI/CD (GitHub Actions)**, **Docker** и **API-тестировании**.
-- 💬 Спроси меня о **Python**, **Selenium**, **Pytest**, **Allure**, **SQL**, **Test Design**.
+- 🌱 В данный момент углубляю знания в **CI/CD (GitHub Actions)**, **Docker** и **нагрузочном тестировании**.
+- 💬 Спроси меня о **Python**, **Selenium**, **Pytest**, **API Testing (Requests)**, **Allure**, **SQL**, **Test Design**.
 - 📫 **Как со мной связаться:** 
   <a href="https://t.me/Stanislav_Chekin"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=Stanislavcekin30@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -32,6 +32,7 @@ QA Engineer с **4-летним опытом в ручном тестирова�
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest">
+  <img src="https://img.shields.io/badge/API_Testing-Requests-blueviolet?style=for-the-badge" alt="API Testing">
   <img src="https://img.shields.io/badge/Allure_Report-FF5722?style=for-the-badge&logo=qameta&logoColor=white" alt="Allure">
   <img src="https://img.shields.io/badge/BDD_(pytest--bdd)-purple?style=for-the-badge" alt="BDD">
   <img src="https://img.shields.io/badge/Mocking-333333?style=for-the-badge" alt="Mocking">
